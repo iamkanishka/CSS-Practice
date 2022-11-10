@@ -15,3 +15,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 2. Inline, Internal and External CSS. Different ways of writing CSS in HTML File - CSS3
 3. Intrinsic vs Extrinsic Sizing. Width Auto vs 100%. min-content, max-content, fit-content - CSS3
 4. Understand CSS Box Model. Content-box vs border-box in box-sizing property - CSS3
+5. CSS Selectors. Universal, Element, Class, Id and Attribute Selectors for matching Elements - CSS
