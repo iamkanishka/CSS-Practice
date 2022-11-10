@@ -14,3 +14,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 1. Cascading Style Sheets. What is CSS ? Why we use CSS ? Introduction - CSS3
 2. Inline, Internal and External CSS. Different ways of writing CSS in HTML File - CSS3
 3. Intrinsic vs Extrinsic Sizing. Width Auto vs 100%. min-content, max-content, fit-content - CSS3
+4. Understand CSS Box Model. Content-box vs border-box in box-sizing property - CSS3
