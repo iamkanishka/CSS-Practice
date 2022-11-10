@@ -16,3 +16,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 3. Intrinsic vs Extrinsic Sizing. Width Auto vs 100%. min-content, max-content, fit-content - CSS3
 4. Understand CSS Box Model. Content-box vs border-box in box-sizing property - CSS3
 5. CSS Selectors. Universal, Element, Class, Id and Attribute Selectors for matching Elements - CSS
+6. Grouping Selectors, Pseudo Class and Pseudo Element Selectors - CSS
