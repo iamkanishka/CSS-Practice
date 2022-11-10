@@ -1,18 +1,7 @@
-*, *::before, *::after{
-    box-sizing: border-box;
-
+#name {
+color: green;
 }
 
-
-body{
-    margin: 0px;
-}
-
-
-div{
-background: red;
-width: 100px;
-height: 50px;
-padding: 10px;
-border: 2px solid red;
+a[href$='.com']{
+    color: red;
 }
