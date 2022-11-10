@@ -1,18 +1,7 @@
-a:hover{
-    color:red;
-    outline: 1px solid green;
-}
-
-
-.my-element::before{
-    content: 'prefix - ';
-}
-
-::selection{
-    background-color: black;
-    color: white;
-}
-
-li::marker{
+.my-class > strong{
     color: red;
 }
+
+/* descendent selectot
+direct descendent selector
+*/
