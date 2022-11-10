@@ -18,3 +18,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 5. CSS Selectors. Universal, Element, Class, Id and Attribute Selectors for matching Elements - CSS
 6. Grouping Selectors, Pseudo Class and Pseudo Element Selectors - CSS
 7. Descendent Selector (Space) and Direct Descendent Selector for Selecting Child Elements - CSS3
+8. Adjacent Selector (+) , Subsequent Sibling Selector (~) & Compound Selectors - CSS

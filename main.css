@@ -1,7 +1,19 @@
-.my-class > strong{
+p.my-class{
     color: red;
 }
 
-/* descendent selectot
-direct descendent selector
+/* 
+Universal Selector -> *
+Element Selector -> element name
+Class Selector -> .
+Id Selector -> #
+Attribute Selector -> [] , *, ^, $
+Pseudo Element Selector -> :
+Pseudo class Selector -> ::
+Gouping Selector -> , 
+Descendent Selector => (space)
+Direct Descendent Selector -> (>)
+Adjacent Selector -> +
+Subsequent Selector -> ~
+Compound Selector -> {} 
 */
