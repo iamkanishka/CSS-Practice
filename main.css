@@ -1,10 +1,37 @@
-button.btn{
-   background-color: red ;
-}
-button{
-    background-color: green !important;
+.btn{
+    color: green !important ;
 }
 
-button{
-    background-color: yellow;
+button.btn{
+    color: blue ;
+    /* 1+10= 11  points*/
+ }
+ 
+
+ body button.btn{
+    color: pink;
+ }
+
+button.btn[class="btn"]{ 
+   color: red ;
 }
+
+html body button.btn[class="btn"]{ 
+    color: brown ;
+ }
+
+
+button{ 
+    color: red ;
+ }
+ 
+
+/* 
+unniversal Selector -> * 0 ponts
+element sector or pseudo element -> 1point
+class, pesudo or attribute => 10 points
+Id Selector -> 100 points
+
+inline styles -> 1000 points
+
+!important -> 10000points */

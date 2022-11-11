@@ -21,3 +21,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 8. Adjacent Selector (+) , Subsequent Sibling Selector (~) & Compound Selectors - CSS
 9. Understand Cascade Algorithm. 4 Distinct Stages in the Cascade for Selecting CSS Rules - CSS3
 10. Explaining 4 Stages of the Cascading Algorithm for the conflict CSS for an Element - CSS3
+11. Understand the CSS Specificity Concept for resolving the conflicts in Styles - CSS
