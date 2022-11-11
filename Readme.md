@@ -20,3 +20,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 7. Descendent Selector (Space) and Direct Descendent Selector for Selecting Child Elements - CSS3
 8. Adjacent Selector (+) , Subsequent Sibling Selector (~) & Compound Selectors - CSS
 9. Understand Cascade Algorithm. 4 Distinct Stages in the Cascade for Selecting CSS Rules - CSS3
+10. Explaining 4 Stages of the Cascading Algorithm for the conflict CSS for an Element - CSS3
