@@ -1,19 +1,10 @@
-p.my-class{
-    color: red;
+button{
+   background-color: red ;
+}
+button{
+    background-color: green !important;
 }
 
-/* 
-Universal Selector -> *
-Element Selector -> element name
-Class Selector -> .
-Id Selector -> #
-Attribute Selector -> [] , *, ^, $
-Pseudo Element Selector -> :
-Pseudo class Selector -> ::
-Gouping Selector -> , 
-Descendent Selector => (space)
-Direct Descendent Selector -> (>)
-Adjacent Selector -> +
-Subsequent Selector -> ~
-Compound Selector -> {} 
-*/
+button{
+    background-color: yellow;
+}
