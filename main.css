@@ -1,15 +1,7 @@
-html{
+.parent{
    color: red;
 }
 
-.my-parent{
-   color: green;
-   border: 1px solid orange;
-   padding: 20px;
-}
-
-
-.my-child{
-   padding: inherit;
-   border: inherit
+button{
+all: unset;
 }

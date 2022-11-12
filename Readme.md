@@ -22,3 +22,6 @@ So We will be Looking These CSS3 features and Learn as we go on.
 9. Understand Cascade Algorithm. 4 Distinct Stages in the Cascade for Selecting CSS Rules - CSS3
 10. Explaining 4 Stages of the Cascading Algorithm for the conflict CSS for an Element - CSS3
 11. Understand the CSS Specificity Concept for resolving the conflicts in Styles - CSS
+12. Apply CSS Inheritance using inherit value for non inheritable Property - CSS3
+13. CSS Inheritance value Initial and Unset for controlling Inheritance for elements - CSS3
+
