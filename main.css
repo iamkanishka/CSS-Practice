@@ -1,37 +1,15 @@
-.btn{
-    color: green !important ;
+html{
+   color: red;
 }
 
-button.btn{
-    color: blue ;
-    /* 1+10= 11  points*/
- }
- 
-
- body button.btn{
-    color: pink;
- }
-
-button.btn[class="btn"]{ 
-   color: red ;
+.my-parent{
+   color: green;
+   border: 1px solid orange;
+   padding: 20px;
 }
 
-html body button.btn[class="btn"]{ 
-    color: brown ;
- }
 
-
-button{ 
-    color: red ;
- }
- 
-
-/* 
-unniversal Selector -> * 0 ponts
-element sector or pseudo element -> 1point
-class, pesudo or attribute => 10 points
-Id Selector -> 100 points
-
-inline styles -> 1000 points
-
-!important -> 10000points */
+.my-child{
+   padding: inherit;
+   border: inherit
+}
