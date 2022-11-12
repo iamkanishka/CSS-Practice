@@ -1,18 +1,13 @@
-*{
+* {
    box-sizing: border-box;
 }
 
 div {
-   width: 300px;
-   height: 300px;
-   /* line-height: 1.5;
-   font-size: 24px; */
-   background-color: rgba(255,0,0,0.5);
+   border: 1px solid red;
+   font-size: 1.5em;
 
 }
 
-div p{
-   margin: 20%;
-   padding: 10%;
-   width: 50%;
+p{
+   font-size: 1rem;
 }

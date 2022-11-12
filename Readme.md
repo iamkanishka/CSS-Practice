@@ -28,3 +28,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 15. CSS Hexadecimal Color Notation in the CSS and its Alpha Value for Transparency - CSS3
 16. RGB color, HSL Color notation with Alpha option and color Keywords - CSS3
 17. CSS Sizing Units. Numeric Sizing and Percentage Sizing unit for elements - CSS3
+18. Sizing Units in CSS. Difference between the em and rem sizing Units - CSS3
