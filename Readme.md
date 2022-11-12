@@ -34,3 +34,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 21. Float Positioning Property Basics. Float Left, Right and Clear Property Values in CSS - CSS3
 22. Techniques for Clearing Floats in CSS Layout. Solving Common Problems with CSS Float - CSS3
 23. Design Simple Webpage Layout using CSS Floats - CSS3
+24. CSS Multicolumn Layout using column-count, column-width and columns property - CSS3
