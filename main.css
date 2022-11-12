@@ -1,16 +1,9 @@
-.block{
-   width: 100px;
-   height: 100px;
-   margin: 10px;
-   padding: 10px;
-   border: 1px solid red;
+.container{
+   display: table;
 }
 
-.inline{
-   display: inline-block;
+.column{
+  display: table-cell;
    width: 100px;
-   height: 100px;
-   margin: 10px;
-   padding: 10px;
-   border: 1px solid green;
+   background-color: orange;
 }

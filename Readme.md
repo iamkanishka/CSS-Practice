@@ -30,3 +30,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 17. CSS Sizing Units. Numeric Sizing and Percentage Sizing unit for elements - CSS3
 18. Sizing Units in CSS. Difference between the em and rem sizing Units - CSS3
 19. Difference between CSS Inline, Block and Inline-Block values in Display Property - CSS3
+20. CSS Display Table, table-row and table-cell and how to use it for the elements - CSS3
