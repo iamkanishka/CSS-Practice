@@ -38,3 +38,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 25. CSS column-gap, column-rule, column-fill, column-span properties in Multicolumn Layout - CSS3
 26. CSS Positioning Property Relative and its Functionality how it works for an element - CSS3
 27. CSS Absolute Positioning Property. Absolute vs Relative Property behavior in CSS - CSS3
+28. CSS Position Fixed Property. How it differs from Absolute Property in CSS - CSS3
