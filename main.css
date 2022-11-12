@@ -2,21 +2,23 @@
    width: 75vw;
    height: 75vh;
    background-color: lightblue;
-   position: relative;
-   z-index: 1;
+
 
 }
 
 .child {
-   position: relative;
-   z-index: 1;
-   background-color: rgba(0, 0, 0, 0.5);
-   width: 100px;
-   height: 100px;
+   position: absolute;
+   background-color: red;
+   top: 0px;
+   bottom: 0px;
+   left: 0px;
+   right: 0px;
+    width: 20px;
+
 }
 
-p {
+/* p {
    position: relative;
    bottom: 35px;
     z-index:0;
-}
+} */
