@@ -1,9 +1,27 @@
-.container{
-   display: table;
+.image{
+   width:100px;
+   height: 100px;
+   background-color: red;
 }
 
-.column{
-  display: table-cell;
+.left{
+   float: left;
+   margin-right: 20px;
+}
+
+.right{
+   float: right;
+ margin-left: 20px;
+}
+
+.clear{
+   clear: both;
+}
+
+.box{
    width: 100px;
-   background-color: orange;
+   height: 100px;
+   background-color: green;
+   float: left;
+   margin: 10px;
 }
