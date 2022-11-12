@@ -1,8 +1,28 @@
 .columns{
    /* column-count: 4;
    column-width: 50px; */
-   columns: 250px;
+   text-align: justify;
+   columns: 4;
+   /* column-rule-style: double ;
+   column-rule-width: 1px;
+   column-rule-color: red; */
+   column-rule: 1px solid red;
+   column-gap: 3em;
 }
 p{
    margin: 0px;
 }
+blockquote{
+   column-span: all;
+   text-align: center;
+   font-weight: bold;
+   font-size: 2em;
+}
+
+.fill{
+   column-count: 4;
+   height: 300px;
+   background-color: lightblue;
+   column-fill: balance;
+}
+
