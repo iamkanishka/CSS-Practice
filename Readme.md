@@ -24,4 +24,5 @@ So We will be Looking These CSS3 features and Learn as we go on.
 11. Understand the CSS Specificity Concept for resolving the conflicts in Styles - CSS
 12. Apply CSS Inheritance using inherit value for non inheritable Property - CSS3
 13. CSS Inheritance value Initial and Unset for controlling Inheritance for elements - CSS3
+14. CSS Revert Value for applying the Browser default value - CSS3
 
