@@ -26,3 +26,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 13. CSS Inheritance value Initial and Unset for controlling Inheritance for elements - CSS3
 14. CSS Revert Value for applying the Browser default value - CSS3
 15. CSS Hexadecimal Color Notation in the CSS and its Alpha Value for Transparency - CSS3
+16. RGB color, HSL Color notation with Alpha option and color Keywords - CSS3
