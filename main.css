@@ -1,11 +1,5 @@
 div{
-   display: initial;
+   background-color: #f001;
 }
-
-button{
-   all:unset;
-   all: revert;
-}
-
 
 
