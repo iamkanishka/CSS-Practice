@@ -1,18 +1,35 @@
-.parent {
-   width: 75vw;
-   height: 75vh;
-   background-color: lightblue;
-   /* position: relative; */
+body{
+   margin: 0px;
+   background-color: #aaa;
 }
 
-.child {
+.container{
+   max-width: 80%;
+   margin: auto;
+   background-color: #fff;
+   width: 100%;
+}
+
+
+header, footer{
+   background-color: #000;
+   color: white;
+   padding: 20px 0px;
+   text-align: center;
    position: fixed;
-   background-color: red;
-   height: 30px;
-   width: 30px;
    max-width: inherit;
-   background-color: red;
-   z-index: -1;
+   width: inherit;
+}
+
+header{
+   top: 0px;
+}
 
 
+footer{
+   bottom: 0px;
+}
+
+main{
+   padding: 50px 0px, 
 }
