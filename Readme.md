@@ -48,3 +48,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 35. flex-grow | flex-shrink | flex-basis properties. flex shorthand property initial, auto, 1 - CSS3
 36. Flex Basis CSS Property | Compare with max-width vs min-width vs flex-basis in Flexbox - CSS3
 37. Understand Flex-grow property and how it is related with the Flex Items and Flex Basis - CSS3
+38. Flex-shrink CSS Property in FlexBox & how it behaves with flex-grow & flex-basis property - CSS3

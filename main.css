@@ -6,20 +6,22 @@
    width: 80vw;
 }
 .child{
-  
    background-color: lightblue;
    border: 1px solid black;
-   flex-basis: 100px;
+   
 }
-
-
 .child:nth-child(1){
-   flex-grow: 110;
+   /* flex-grow: 1;
+   flex-shrink: 1;
+   flex-basis: 100px; */
+   flex: 0 1 0;
 
 }
-
-
 .child:nth-child(2){
-flex-grow: 1;
+/* flex-grow: 1;
+flex-shrink: 10;
+flex-basis: 100px; */
+flex: 0 1 0;
+
    
 }
