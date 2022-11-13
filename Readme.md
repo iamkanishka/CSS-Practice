@@ -41,3 +41,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 28. CSS Position Fixed Property. How it differs from Absolute Property in CSS - CSS3
 29. Make CSS fixed Header and Footer for a Web Page using position fixed property in CSS - CSS3
 30. Position Sticky Property. How it differs from the Fixed property in CSS - CSS3
+31. Usage of Sticky Position Property in the real time web Apps CSS - CSS3
