@@ -2,6 +2,7 @@
    background-color: lightblue;
    display: flex;
    flex-direction: row;
+   flex-wrap: wrap;
 }
 
 .container>div{

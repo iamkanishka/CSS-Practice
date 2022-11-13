@@ -44,3 +44,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 31. Usage of Sticky Position Property in the real time web Apps CSS - CSS3
 32. Flexbox - Understand CSS Flexbox Layout Mechanism - Main Axis and Cross Axis - CSS3
 33. CSS Flexbox direction for aligning items. row | row-reverse | Column | column-reverse - CSS3
+34. CSS Flex-wrap property. no-wrap, wrap | flex-flow Shorthand Property - CSS3 Flexbox
