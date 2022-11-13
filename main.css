@@ -12,5 +12,17 @@
 .container>div{
    background-color: lightcoral;
    border: 1px solid black;
+   /* flex-grow: 0;
+   flex-shrink: 1;
+   flex-basis: auto; */
+   flex:1 ; 
+   flex:auto ; 
+
+   flex:initial ;
+   /* flex:1 ;-> 1,1, 0 
+   flex:auto ;-> 1,1, 0 
+
+   flex:initial ;-> 1,1, 0  */
+
 }
 
