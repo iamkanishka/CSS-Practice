@@ -1,7 +1,12 @@
 .container{
    background-color: lightblue;
    display: flex;
-   flex-flow: row wrap;
+   /* flex-direction: column;
+   flex-wrap: wrap; */
+
+   /* Short Hand Notation */
+   flex-flow: row wrap; 
+
 }
 
 .container>div{
