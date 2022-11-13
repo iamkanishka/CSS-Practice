@@ -46,3 +46,4 @@ So We will be Looking These CSS3 features and Learn as we go on.
 33. CSS Flexbox direction for aligning items. row | row-reverse | Column | column-reverse - CSS3
 34. CSS Flex-wrap property. no-wrap, wrap | flex-flow Shorthand Property - CSS3 Flexbox
 35. flex-grow | flex-shrink | flex-basis properties. flex shorthand property initial, auto, 1 - CSS3
+36. Flex Basis CSS Property | Compare with max-width vs min-width vs flex-basis in Flexbox - CSS3

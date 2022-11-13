@@ -1,28 +1,13 @@
 .container{
-   background-color: lightblue;
+   background-color: #aaa;
    display: flex;
-   /* flex-direction: column;
-   flex-wrap: wrap; */
-
-   /* Short Hand Notation */
-   flex-flow: row wrap; 
-
+   flex-direction: column;
+   height: 300px;
+   width: 300px;
 }
-
-.container>div{
-   background-color: lightcoral;
+.child{
+    width: 100px;
+    flex-basis: 80px;
+   background-color: lightblue;
    border: 1px solid black;
-   /* flex-grow: 0;
-   flex-shrink: 1;
-   flex-basis: auto; */
-   flex:1 ; 
-   flex:auto ; 
-
-   flex:initial ;
-   /* flex:1 ;-> 1,1, 0 
-   flex:auto ;-> 1,1, 0 
-
-   flex:initial ;-> 1,1, 0  */
-
 }
-
